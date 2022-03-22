@@ -1,0 +1,33 @@
+.product {
+  display: flex;
+  /* grid-template-columns: 1fr 2fr; */
+  border-bottom: 1px solid black;
+  column-gap: 40px;
+}
+.products-det {
+  text-align: left;
+  margin-bottom: 20px;
+}
+.btn {
+  background-image: linear-gradient(#f46001, #e14802);
+  border-radius: 5px;
+  color: rgb(255, 255, 255);
+  width: 160px;
+  height: 40px;
+  font-weight: 500;
+  border: 1px solid rgb(255, 255, 255);
+  cursor: pointer;
+}
+.starr {
+  color: #ffee00;
+}
+.text {
+  color: rgb(48, 180, 8);
+}
+.child-txt {
+  color: black;
+  font-weight: 600;
+}
+.tet {
+  color: #ff0000;
+}
